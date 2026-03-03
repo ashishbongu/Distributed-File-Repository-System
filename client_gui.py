@@ -7,7 +7,7 @@ from threading import Thread, Lock
 import time
 
 # --- Configuration ---
-HOST = '127.0.0.1' # Server IP
+HOST = '10.0.1.90' # Server IP
 PORT = 9998
 CHUNK_SIZE = 1024 
 
